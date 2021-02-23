@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **any interesting repo**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tapish2000?tab=repositories](https://github.com/tapish2000?tab=repositories)
+- 👨‍💻 All of my projects are available at [Works](https://github.com/tapish2000?tab=repositories)
 
 - 📫 How to reach me **tapishojha2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ehIjKJoGmDOgvdYlzt5f2oDa-cnOj_G1/view?usp=sharing](https://drive.google.com/file/d/1ehIjKJoGmDOgvdYlzt5f2oDa-cnOj_G1/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ehIjKJoGmDOgvdYlzt5f2oDa-cnOj_G1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
