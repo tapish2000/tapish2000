@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on [dst-custom-compiler](https://github.com/tapish2000/dst-custom-compiler)
 
-- 🌱 I’m currently learning **tool development, compiler design, AI**
+- 🌱 I’m currently learning **Tool Development, Compiler Design, OS, Database Management**
 
 - 👯 I’m looking to collaborate on **any interesting repo**
 
 - 👨‍💻 All of my projects are available at [Works](https://github.com/tapish2000?tab=repositories)
-
-- 📫 How to reach me **tapishojha2000@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ehIjKJoGmDOgvdYlzt5f2oDa-cnOj_G1/view?usp=sharing)
 
