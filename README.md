@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ehIjKJoGmDOgvdYlzt5f2oDa-cnOj_G1/view?usp=sharing)
 
+- 📝 I regularly write articles on [blog-all](https://tapish2000.github.io/blog-all/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tapish-ojha-a909a7191" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tapish-ojha-a909a7191" height="30" width="40" /></a>
